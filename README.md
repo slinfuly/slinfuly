@@ -1,10 +1,3 @@
-- 🫀 olá, eu sou a lin
-- 👀 meu 
-- 🌱 I’m currently learning ...👋
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-slinfuly/slinfuly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🫀 olá, eu sou a lin ˚✧ .
+- 👾 meu email de contato é ellen.moreno.santos@escola.pr.gov.br
+- 🔮 estou interessada em aprender novas linguagens de programação
