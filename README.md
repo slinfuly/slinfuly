@@ -1,3 +1,3 @@
-- 🫀 olá, eu sou a lin ˚✧ .
-- 👾 meu email de contato é ellen.moreno.santos@escola.pr.gov.br
-- 🔮 estou interessada em aprender novas linguagens de programação
+- 👾 olá, eu sou a lin ˚✧ .
+- 👾 meu email de contato é ellen.moreno.santos@escola.pr.gov.br ˚✧ .
+- 👾 estou interessada em aprender novas linguagens de programação ˚✧ .
